@@ -106,3 +106,7 @@ export default function HomePage() {
     </div>
   );
 }
+cd penny-sense-site
+git add .
+git commit -m "Initial Penny Sense site"
+git push origin main
