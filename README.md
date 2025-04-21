@@ -1,1 +1,1 @@
-git clone https://github.com/yourusername/penny-sense-site.git
+git clone https://github.com/PennySense/penny-sense-site.git
